@@ -4,8 +4,10 @@ const a = () =>{
 
 const c = () =>{
     alert("fanction c")
+
 }
 
 const d = () =>{
-    alert("fanction c")
+    alert("fanction d")
+
 }
