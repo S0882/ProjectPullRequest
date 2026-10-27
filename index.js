@@ -2,6 +2,10 @@ const a = () =>{
     alert("fanction a")
 }
 
-const b = () =>{
-    alert("fanction b")
+const c = () =>{
+    alert("fanction c")
+}
+
+const d = () =>{
+    alert("fanction c")
 }
